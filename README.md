@@ -1,8 +1,8 @@
 # CodeEYE [Ai]
-Working with the OpenAI API, I have managed to recreate a minimal ChatGPT application that not only works perfectly just like a web application but is also a flawless component and does intend to do what ChatGPT does, while avoiding wait times and down times.
+As a seasoned software developer with a passion for creating user-friendly and efficient applications, I am proud to share my recent project where I leveraged the OpenAI API to develop a minimal ChatGPT application.
 
-Using the keys provided by the OpenAI API, I created the minimal backend while importing the OpenAI-API into my project and posting/requesting data within the code samples given on the OpenAI website. This involved sending front-end data to my backend to generate what the AI produces.
+I was able to seamlessly integrate the OpenAI API into my project and utilize the provided keys to construct a robust backend. This involved implementing a streamlined process for sending and receiving data, ensuring fast and reliable performance.
 
-Making the front end was only a few functions that handled imitating ChatGPT. This included grabbing values from both the AI and user, sending them back, and posting data via response to the webserver. To imitate the “…” sequence for loading data, I created and called a function to set an interval for displaying text content with `...` as a loading sequence.
+On the front-end, I developed a user-friendly interface that mimics the functionality of ChatGPT, including the ability to display text with a loading sequence and retrieve responses from the AI in real-time.
 
-In conclusion, I was able to establish a backend with Render's free plan and a front end with Vite's free plan. My minimal ChatGPT application works perfectly like a web application, is a flawless component, and does intend to do what ChatGPT does while avoiding wait times and down times.
+Leveraging the free plans offered by Render and Vite, I was able to create a fully-functional ChatGPT application that operates like a web application, providing a seamless and efficient user experience while avoiding wait times and downtime.
